@@ -1,0 +1,56 @@
+{
+    "MassConv": [
+        {
+            "grams": 1.0
+        },
+        {
+            "kilograms": 1000
+        },
+        {
+            "ounces": 28.34952
+        },
+        {
+            "pounds": 453.59237
+        },
+        {
+            "tons": 907185
+        }
+    ],
+  "LengthConv": [
+        {
+            "cms": 1.0
+        },
+        {
+            "meters": 100
+        },
+        {
+            "kilometers": 100000
+        },
+        {
+            "inches": 2.54
+        },
+        {
+            "feet": 30.48
+        },
+        {
+            "yards": 91.44
+        },
+        {
+            "miles": 160934
+        }
+  ],
+  "ForceConv": [
+        {
+            "newtons": 1.0
+        },
+        {
+            "pounds-force": 4.448222
+        },
+        {
+            "dynes": 0.00001
+        },
+        {
+            "kilogram-force": 9.80665
+        }
+  ]
+}
